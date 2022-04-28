@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# About this repo
+A student manager site where user is authorized and then have the ability to add students info into the database. They can also display student info from the database using MySQL.
